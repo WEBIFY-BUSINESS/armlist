@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.png" width="100%" alt="ArmList marketplace platform">
+  <img src="./assets/cover.webp" width="100%" alt="ArmList marketplace platform">
 </p>
 
 # ArmList
